@@ -1,0 +1,20 @@
+body{
+    background-color:burlywood;
+}
+h1{
+    color: blue;
+}
+.rakesh{
+    border-style: dotted;
+}
+#you{
+    color: aqua;
+}
+h2,h3{
+    border: solid;
+    color:pink;
+}
+.rakesh, #you{
+    color: cornflowerblue;
+}
+                                                                                                                                                                                                                                                                
